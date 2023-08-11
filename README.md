@@ -1,7 +1,7 @@
 # FAIMS3-Notebook-Instrument-Metadata-Demo
 
 ## About this notebook:
-This is a demonstration notebook for collecting metadata from instruments created for Lesley Wyborn.
+This is a demonstration notebook for collecting metadata from instruments created for Dr Lesley Wyborn.
 
 ## Authorship:
 This notebook was co-developed by Dr Penny Crook, Dr Brian Ballsun-Stanton and Professor Shawn Ross.
